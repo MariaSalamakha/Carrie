@@ -1,0 +1,18 @@
+.header, .image-container, .btn {
+    display: flex;
+    justify-content: center;
+}
+body {
+    background: #FDD2BF;
+}
+h1, h2 {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+}
+#one, #two {
+    padding: 20px;
+    background: #000000;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+}
